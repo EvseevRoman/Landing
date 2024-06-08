@@ -1,3 +1,9 @@
-[![Header](https://github.com/EvseevRoman/Landing_hotel_chain_Loguna/blob/main/img/logo.svg)](https://evseevroman.github.io/Landing_hotel_chain_Loguna/)
-# Landing сеть отелей "Loguna"
-Практические работы по вёрстке в онлайн школе "SkillBox"
+[![Header](https://github.com/EvseevRoman/Landing_hotel_chain_Loguna/blob/main/img/logo.svg)](https://evseevroman.github.io/Landing_hotel_chain_Loguna/)              Для просмотра кликните по логотипу Loguna
+# Landing: сеть отелей "Loguna"
+Практическая работа по вёрстке в онлайн школе "SkillBox".
+## Цель работы: Закрепить на практике работу с CSS-псевдоклассами, псевдоэлементами и трансформациями.
+- При помощи псевдокласса :nth-child сделана сетка элементов, которая не меняется при добавлении новых блоков.
+- Реализованы плавные ховер-эффекты для всех ссылок и кнопок на сайте.
+- Блок «Посмотреть все варианты» сделан кликабельным с помощью псевдоэлемента.
+- Цвета сайта выделены в кастомные свойства.
+- На страницу добавлена favicon
